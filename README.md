@@ -1,6 +1,9 @@
 # Çalışma Mekanları
 
-İzmir'de sürekli kafelerde çalışıyorum. Gittiğim yerler hakkında bir liste oluşturdum. Umarım sizler için de faydalı olur.
+İzmir'de sürekli kafelerde çalışıyorum. Bu listeyi sadece kendi gittiğim yerler hakkında not almak için olutşurdum.
+Umarım sizler için de faydalı olur.
+
+Daha fazla yer için şu github reposunu takip edebilirsiniz: https://github.com/acikkaynak/calisma-mekanlari
 
 
 ## 📚 İzmir 
