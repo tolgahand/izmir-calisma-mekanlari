@@ -17,5 +17,6 @@ Daha fazla yer için şu github reposunu takip edebilirsiniz: https://github.com
 | Balçova                     | İstinyePark Nero    | Çoğu masada mevcut     |  Mevcut  |  45 Mbps  |       9/10       |   10:00 - 22:00  | @caffenero           |
 | Balçova                     | Agora Nero    | Çalışma masalarında mevcut     |  Mevcut  |  5 Mbps  |       9/10       |   10:00 - 22:00  | @caffenero           |
 | Balçova                     | İstinyePark Starbucks|Çoğu masada mevcut     |  Mevcut  |  - Mbps  |       9/10       |   10:00 - 22:00  | @starbucks_tr        |
+| Balçova                     | Tuck (Kipa Karşısı)    | Göremedim (Çoğu masada yok)     |  Mevcut  |  200 Mbps  |       9/10       |   -  | @tuckcoffee          |
 | Bornova (KüçükPark)         | Brew Mood Coffee & Tea| Çalışma Masalarında mevcut  |  Mevcut  |  10 Mbps  |       10/10       |   10:00 - 22:00  | @brewmoodturkiye        |
 | Güzelbahçe         |  1881 Cafe&Lounge| Yok ya da çok az  |  Mevcut  |  15 Mbps  |       10/3       |   -  | @1881cafelounge        |
