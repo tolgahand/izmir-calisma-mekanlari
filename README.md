@@ -14,6 +14,14 @@ Eğer sen de "çalışacak bir yer arıyorum" diyorsan, umarım bu liste işine 
 
 ---
 
+## 📍 Seferihisar
+
+| 🏠 Mekan Adı     | 🔌 Priz Durumu        | 🚀 İnternet Hızı | 🔊 Gürültü | 🕒 Saatler        | 📸 Instagram            |
+|------------------|------------------------|------------------|------------|-------------------|-------------------------|
+| Tuck      | Çoğu masada mevcut     | 250 Mbps          | 2/10       | 10:00 - 22:00     | [@tuckcoffee](https://instagram.com/tuckcoffee)        |
+
+---
+
 ## 📍 Balçova
 
 | 🏠 Mekan Adı               | 🔌 Priz Durumu          | 🚀 İnternet Hızı | 🔊 Gürültü | 🕒 Saatler        | 📸 Instagram              |
@@ -60,5 +68,3 @@ Eğer sen de "çalışacak bir yer arıyorum" diyorsan, umarım bu liste işine 
 | Tuck          | Çalışma odası var  | 25 Mbps          | 10/10      | -          | [@tuckcoffee](https://instagram.com/tuckcoffee)  |
 
 ---
-
-📌 Eğer senin de önerin varsa, PR açmaktan çekinme!
