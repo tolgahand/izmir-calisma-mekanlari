@@ -4,6 +4,9 @@ Merhaba!
 İzmir’de genellikle kafelerde çalışıyorum. Bu listeyi de kendi deneyimlerime göre, çalışılabilir mekanları not almak için oluşturdum.  
 Eğer sen de "çalışacak bir yer arıyorum" diyorsan, umarım bu liste işine yarar.  
 
+
+Daha fazla yer için şu github reposunu takip edebilirsiniz: https://github.com/acikkaynak/calisma-mekanlari
+
 ---
 
 ## 📍 Urla
