@@ -70,6 +70,14 @@ Daha fazla yer için şu github reposunu takip edebilirsiniz: https://github.com
 
 ---
 
+## 📍 Buca
+
+| 🏠 Mekan Adı     | 🔌 Priz Durumu        | 🚀 İnternet Hızı | 🔊 Gürültü | 🕒 Saatler        | 📸 Instagram            | 📝 Not         |
+|------------------|------------------------|------------------|------------|-------------------|-------------------------|-------------------------|
+| Buckin      | Çalışma masalarında mevcut     | 40 Mbps          | 8/10       | 10:00 - 22:00     | [@buckincoffee_tr](https://www.instagram.com/buckincoffee_tr/) | 3 katlı bir mekan. Çalışma masalarının olduğu yer çok gürültülü ve sıcaktı. Sıcak dönemlerde tercih edeceğim bir yer değil. |
+
+---
+
 ## 📍 Göztepe
 
 | 🏠 Mekan Adı     | 🔌 Priz Durumu        | 🚀 İnternet Hızı | 🔊 Gürültü | 🕒 Saatler        | 📸 Instagram            | 📝 Not         |
