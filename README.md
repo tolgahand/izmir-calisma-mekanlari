@@ -59,6 +59,7 @@ Daha fazla yer için şu github reposunu takip edebilirsiniz: https://github.com
 | 🏠 Mekan Adı     | 🔌 Priz Durumu        | 🚀 İnternet Hızı | 🔊 Gürültü | 🕒 Saatler        | 📸 Instagram            | 📝 Not         |
 |------------------|------------------------|------------------|------------|-------------------|-------------------------|-------------------------|
 | Brew Mood Coffee & Tea     | Çalışma masalarında     | 10 Mbps          | 10/10      | 10:00 - 22:00     | [@brewmoodturkiye](https://instagram.com/brewmoodturkiye)   |
+| Cope Of Coffee     | Masaların altında     | 177 Mbps          | 5/10      | -     | [@copeof_coffee](https://www.instagram.com/copeof_coffee/)   |
 
 ---
 
