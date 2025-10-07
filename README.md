@@ -40,8 +40,11 @@ Daha fazla yer için şu github reposunu takip edebilirsiniz: https://github.com
 | İstinyePark Nero           | Çoğu masada mevcut       | 45 Mbps          | 9/10       | 10:00 - 22:00     | [@caffenero](https://instagram.com/caffenero)         | Çalışma alanı çok kısıtlı ve karanlık bir ortam. Fazlasıyla gürültülü. |
 | İstinyePark Starbucks      | Çoğu masada mevcut       | -                | 9/10       | 10:00 - 22:00     | [@starbucks_tr](https://instagram.com/starbucks_tr)    | 1 tane çalışma masası var ama genelde boş oluyor. |
 | Agora Nero                 | Çalışma masalarında      | 5 Mbps           | 9/10       | 10:00 - 22:00     | [@caffenero](https://instagram.com/caffenero)         |
+| Agora Gloria Jean's        | Çalışma masalarında      | Rezil           | 9/10       | 10:00 - 22:00     | [@caffenero](https://instagram.com/caffenero)         |
+| Agora Kahve Dünyası       | Yok      | Rezil           | 9/10       | 10:00 - 22:00     | -        | İnternete bağlanamadım, internetle işiniz yoksa köşede çok güzel oturma alanı var. |
 | Robus Coffee               | Çoğu masada yok          | 20 Mbps          | 9/10       | 10:00 - 22:00     | [@robustcoffeeshop](https://instagram.com/robustcoffeeshop)  |
 | Tuck (Kipa Karşısı)        | Çoğu masada yok          | 200 Mbps         | 9/10       | -                 | [@tuckcoffee](https://instagram.com/tuckcoffee)        | Çok kalabalık oluyor ama interneti hızlı. Uzun süreli çalışma için uygun değil, hızlı internet ve kısa süreli çalışma için ideal yer. |
+| W.O.L Coffee Co. (Kipa Karşısı)        | Yok diyebiliriz         | 80 Mbps         | 9/10       | -                 | [@wolcoffeeco](https://instagram.com/wolcoffeeco)        |  Yan taraftaki masalar tek başına çalışmak için ideal. |
 
 ---
 
