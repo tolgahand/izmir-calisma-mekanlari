@@ -116,6 +116,7 @@ Ancak veriler izin alınmadan başka projelere **kopyalanamaz veya ticari olarak
 | ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
 |----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
 | **Brew Mood Coffee & Tea** | ⚡ Çalışma masalarında | 🚀 169 Mbps | 🔉 7/10 | 10:00 - 22:00 | - | [@brewmoodturkiye](https://instagram.com/brewmoodturkiye) | Arka kısım toplantı için uygun, sessiz ama biraz karanlık. |
+| **Ali Galip** | ⚡ Duvar dibindeki masalarda | 🚀 40 Mbps | 🔉 7/10 | 10:00 - 22:00 | 2025-10 | - | Üçyol metro çıkışında acil ihtiyaç halinde kısa süreli çalışmalar için ideal yer. |
 
 </details>
 
