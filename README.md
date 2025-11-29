@@ -139,7 +139,7 @@ Ancak veriler izin alınmadan başka projelere **kopyalanamaz veya ticari olarak
 | ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
 |----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
 | **Tuck** | ✅ Çalışma odası var | 🚀 25 Mbps | 🔉 10/10 | - | - | [@tuckcoffee](https://instagram.com/tuckcoffee) | Sessiz çalışma odası var. Öğrenciler genelde ders çalışıyor. |
-
+| **Casual** | ✅ Neredeyse tüm masalarda priz var | 🚀 80 Mbps | 🔉 10/10 | - | - | [@casualcoffeebakery](https://instagram.com/casualcoffeebakery) | Sessiz çalışma odası var. Öğrenciler genelde ders çalışıyor. |
 </details>
 
 ---
