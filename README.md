@@ -4,7 +4,7 @@
 
 **İzmir’de laptop açıp verimli çalışabileceğin kafeler için kişisel, bağımsız ve düzenli güncellenen çalışma rehberi.**
 
-[![Son teyit](https://img.shields.io/badge/Son_teyit-Aralık_2025-0F766E?style=flat-square)](#-güncellik-ve-puanlama)
+[![Son teyit](https://img.shields.io/badge/Son_teyit-Eylül_2026-0F766E?style=flat-square)](#-güncellik-ve-puanlama)
 [![Bölge](https://img.shields.io/badge/Bölge-10-1D4ED8?style=flat-square)](#-bölgeler)
 [![Mekân](https://img.shields.io/badge/Mekân-26-C2410C?style=flat-square)](#-bölgeler)
 [![Lisans](https://img.shields.io/badge/Lisans-CC_BY--NC--ND_4.0-52525B?style=flat-square)](#-lisans)
