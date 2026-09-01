@@ -1,164 +1,204 @@
-# ☕ İzmir Çalışma Mekanları
+<div align="center">
 
-> İzmir’de genellikle kafelerde çalışıyorum.  
-> Bu listeyi kendi deneyimlerime göre oluşturuyorum.  
-> Son teyit tarihleriyle birlikte güncel tutmaya çalışıyorum.  
->
-> Eğer sen de *"çalışacak bir yer arıyorum"* diyorsan, umarım bu liste işine yarar.  
+# ☕ İzmir Çalışma Mekânları
 
----
+**İzmir’de laptop açıp verimli çalışabileceğin kafeler için kişisel, bağımsız ve düzenli güncellenen çalışma rehberi.**
 
-![Son Güncelleme](https://img.shields.io/badge/Son_güncelleme-Ekim_2025-blue?style=flat-square)
-![Bölge](https://img.shields.io/badge/Bölge-9-green?style=flat-square)
-![Lisans](https://img.shields.io/badge/Lisans-CC_BY--NC--ND_4.0-lightgrey?style=flat-square)
+[![Son teyit](https://img.shields.io/badge/Son_teyit-Aralık_2025-0F766E?style=flat-square)](#-güncellik-ve-puanlama)
+[![Bölge](https://img.shields.io/badge/Bölge-10-1D4ED8?style=flat-square)](#-bölgeler)
+[![Mekân](https://img.shields.io/badge/Mekân-24-C2410C?style=flat-square)](#-bölgeler)
+[![Lisans](https://img.shields.io/badge/Lisans-CC_BY--NC--ND_4.0-52525B?style=flat-square)](#-lisans)
 
----
+[Öne Çıkanlar](#-öne-çıkanlar) · [Bölgeler](#-bölgeler) · [Kriterler](#-güncellik-ve-puanlama) · [Katkı](#-katkı) · [Lisans](#-lisans)
 
-## 📍 Bölgeler
-- [Alsancak](#-alsancak)
-- [Konak](#-konak)
-- [Urla](#-urla)
-- [Seferihisar](#-seferihisar)
-- [Balçova](#-balçova)
-- [Güzelbahçe](#-güzelbahçe)
-- [Bornova](#-bornova)
-- [Üçyol](#-üçyol)
-- [Buca](#-buca)
-- [Göztepe](#-göztepe)
+</div>
 
 ---
 
-## 🔔 Katkı
-Yeni yer eklemek veya mevcut bilgileri güncellemek istersen, PR (pull request) açabilirsin.  
-Ancak veriler izin alınmadan başka projelere **kopyalanamaz veya ticari olarak kullanılamaz.**
+> [!NOTE]
+> Bu listeyi kendi deneyimlerime göre oluşturuyorum. İnternet hızı, yoğunluk, çalışma saatleri ve priz durumu zaman içinde değişebilir. Gitmeden önce mekânın güncel bilgilerini kontrol etmeni öneririm.
+
+## ✨ Öne Çıkanlar
+
+| İhtiyaç | Mekân | Bölge | Neden öne çıkıyor? |
+|---|---|---|---|
+| 🚀 **En hızlı internet** | **Tukkan** | Konak | 400+ Mbps internet ve çoğu masada priz |
+| 🤫 **Sakin çalışma** | **Tuck** | Seferihisar | 2/10 gürültü, havadar ve sessiz ortam |
+| 🌙 **Geç saate kadar çalışma** | **Tukkan** | Konak | 01.00’e kadar açık |
+| 🚪 **Çalışma odası** | **Kahve Dünyası** | Alsancak | Üst katta rahat çalışma odaları |
+| 📚 **Ders / odaklanma** | **Tuck** ve **Casual** | Göztepe | Sessiz çalışma odaları mevcut |
+| 💬 **Görüşme yapmak** | **İstinyePark Teras** | Balçova | Tekli masalar ve görüşmeye uygun oturma düzeni |
 
 ---
 
-<details>
-<summary>📍 <b>Alsancak</b></summary>
+## 🧭 Bölgeler
 
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Kahve Dünyası (Kültür Sanat Fabrikası)** | ✅ Çalışma masalarında mevcut | ⚡ 20 Mbps | 🔉 7/10 | 10:00 - 22:00 | - | [@kahvedunyasi](https://www.instagram.com/kahvedunyasi/) | Üst katta odalar var, öğrenciler bazen 2-3 kişi geçip kapıyı kapatıyor. Girip kullanabilirsiniz, kişiye özel ayrılmış oda sistemi yok. Direkt çalışma odaları çok rahat, sakin. |
+<div align="center">
 
-</details>
+[Alsancak](#alsancak) · [Konak](#konak) · [Urla](#urla) · [Seferihisar](#seferihisar) · [Balçova](#balcova) · [Güzelbahçe](#guzelbahce) · [Bornova](#bornova) · [Üçyol](#ucyol) · [Buca](#buca) · [Göztepe](#goztepe)
+
+</div>
+
+<a id="alsancak"></a>
+### 📍 Alsancak · 1 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Kahve Dünyası — Kültür Sanat Fabrikası**<br>[Instagram ↗](https://www.instagram.com/kahvedunyasi/) | ✅ Çalışma masalarında mevcut | 20 Mbps | 7/10 | 10.00–22.00 | — | Üst katta rahat çalışma odaları var. Odalar kişiye özel değil; müsait olduğunda kullanılabiliyor. |
+
+
+<a id="konak"></a>
+### 📍 Konak · 1 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Tukkan**<br>[Instagram ↗](https://instagram.com/tukkancoffee) | ⚡ Çoğu masada mevcut | **400+ Mbps** | 8/10 | 09.00–01.00 | — | Gündüz saatlerinde sakin, hafif müzikli ve temiz bir ortam. |
+
+
+<a id="urla"></a>
+### 📍 Urla · 1 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Baristocrat**<br>[Instagram ↗](https://instagram.com/baristocrat3rd) | ⚡ Çoğu masada mevcut | 15 Mbps | 9/10 | 10.00–22.00 | — | Kahveleri güzel; yaz aylarında içerisi sıcak ve çalışma alanı sınırlı olabiliyor. |
+
+
+<a id="seferihisar"></a>
+### 📍 Seferihisar · 1 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Tuck**<br>[Instagram ↗](https://instagram.com/tuckcoffee) | ⚡ Çoğu masada mevcut | **250 Mbps** | **2/10** | 10.00–22.00 | — | Sessiz, havadar ve uzun süre çalışmak için keyifli bir ortam. |
+
+
+<a id="balcova"></a>
+### 📍 Balçova · 10 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **İstinyePark Teras**<br>[Instagram ↗](https://instagram.com/istinyeparkteras) | ⚡ Çoğu masada mevcut | 15 Mbps | 8/10 | 10.00–01.00 | — | Tekli masalar rahat. Görüşme yapmak için uygun; ortam biraz karanlık. |
+| **İstinyePark Penguen**<br>[Instagram ↗](https://instagram.com/penguen.kitabevi) | ❌ Yok | 65 Mbps | 3/10 | 10.00–22.00 | — | Alt kat çalışmaya uygun değil. Üst kat kısa süreli çalışma için kullanılabilir. |
+| **İstinyePark Caffè Nero**<br>[Instagram ↗](https://instagram.com/caffenero) | ⚡ Çoğu masada mevcut | 45 Mbps | 9/10 | 10.00–22.00 | — | Karanlık ve gürültülü bir ortam. |
+| **İstinyePark Starbucks**<br>[Instagram ↗](https://instagram.com/starbucks_tr) | ⚡ Çoğu masada mevcut | — | 9/10 | 10.00–22.00 | — | Bir adet çalışma masası var; genellikle boş oluyor. |
+| **Agora Caffè Nero**<br>[Instagram ↗](https://instagram.com/caffenero) | ⚡ Çalışma masalarında | 5 Mbps | 9/10 | 10.00–22.00 | **2025-12** | — |
+| **Agora Gloria Jean’s**<br>[Instagram ↗](https://instagram.com/gloriajeanscoffeetr) | ⚡ Çalışma masalarında | Çok yavaş | 9/10 | 10.00–22.00 | **2025-12** | İnternet bağlantısı zayıf. |
+| **Agora Kahve Dünyası** | ❌ Yok | Çok zayıf | 9/10 | 10.00–22.00 | **2025-12** | İnternet zayıf; oturma alanı rahat. |
+| **Robus Coffee**<br>[Instagram ↗](https://instagram.com/robustcoffeeshop) | ⚡ Az sayıda | 20 Mbps | 9/10 | 10.00–22.00 | — | — |
+| **Tuck — Kipa karşısı**<br>[Instagram ↗](https://instagram.com/tuckcoffee) | ⚡ Az sayıda | **200 Mbps** | 9/10 | — | — | Kalabalık olabiliyor; interneti hızlı. |
+| **W.O.L Coffee Co. — Kipa karşısı**<br>[Instagram ↗](https://instagram.com/wolcoffeeco) | ❌ Yok | 80 Mbps | 9/10 | — | **2025-10** | Tekli masalar rahat. |
+
+
+<a id="guzelbahce"></a>
+### 📍 Güzelbahçe · 2 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Tuck — Delicious**<br>[Instagram ↗](https://instagram.com/tuckcoffee) | ⚡ Az sayıda | 20 Mbps | 9/10 | — | **2024-08** | — |
+| **1881 Cafe & Lounge**<br>[Instagram ↗](https://instagram.com/1881cafelounge) | ❌ Yok veya çok az | 15 Mbps | 3/10 | — | — | Öğlen saatlerinde sakin; ağaç altında huzurlu bir ortam. |
+
+
+<a id="bornova"></a>
+### 📍 Bornova · 2 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Brew Mood Coffee & Tea**<br>[Instagram ↗](https://instagram.com/brewmoodturkiye) | ⚡ Çalışma masalarında | 10 Mbps | 10/10 | 10.00–22.00 | — | — |
+| **Cope Of Coffee**<br>[Instagram ↗](https://www.instagram.com/copeof_coffee/) | ⚡ Masaların altında | **177 Mbps** | 5/10 | — | **2025-05** | — |
+
+
+<a id="ucyol"></a>
+### 📍 Üçyol · 3 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Brew Mood Coffee & Tea**<br>[Instagram ↗](https://instagram.com/brewmoodturkiye) | ⚡ Çalışma masalarında | **169 Mbps** | 7/10 | 10.00–22.00 | — | Arka bölüm toplantı için uygun ve sakin; ortam biraz karanlık. |
+| **Ali Galip** | ⚡ Duvar dibindeki masalarda | 40 Mbps | 7/10 | 10.00–22.00 | **2025-10** | Üçyol Metro çıkışında, kısa süreli ve acil çalışmalar için uygun. |
+| **Casual**<br>[Instagram ↗](https://instagram.com/casualcoffeebakery) | ⚡ Çalışma masalarında | **400 Mbps** | 7/10 | 10.00–22.00 | — | Alt katında çalışma masaları ve sessiz çalışma odası mevcut. |
+
+
+<a id="buca"></a>
+### 📍 Buca · 1 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Buckin**<br>[Instagram ↗](https://www.instagram.com/buckincoffee_tr/) | ⚡ Çalışma masalarında mevcut | 40 Mbps | 8/10 | 10.00–22.00 | — | Üç katlı. Yaz aylarında sıcak ve genel olarak gürültülü olabiliyor. |
+
+
+<a id="goztepe"></a>
+### 📍 Göztepe · 2 mekân
+
+
+| Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
+|---|---|---:|:---:|:---:|:---:|---|
+| **Tuck**<br>[Instagram ↗](https://instagram.com/tuckcoffee) | ✅ Çalışma odası var | 25 Mbps | 10/10 | — | — | Öğrencilerin sıklıkla kullandığı sessiz bir çalışma odası var. |
+| **Casual**<br>[Instagram ↗](https://instagram.com/casualcoffeebakery) | ✅ Neredeyse tüm masalarda | 80 Mbps | 10/10 | — | **2025-10-29** | Sessiz çalışma odası var. Öğrenciler genellikle ders çalışıyor. |
+
 
 ---
 
-<details>
-<summary>📍 <b>Konak</b></summary>
+## ℹ️ Güncellik ve Puanlama
 
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Tukkan** | ⚡ Çoğu masada mevcut | 🚀 400+ Mbps | 🔉 8/10 | 09:00 - 01:00 | - | [@tukkancoffee](https://instagram.com/tukkancoffee) | Gündüz vakitlerinde içerisi sakin, hafif müzik var. Tertemiz ortam, çok güzel bir yer. |
+| Alan | Açıklama |
+|---|---|
+| 🔌 **Priz** | Masalarda veya çalışma alanında priz bulunma durumu |
+| 🚀 **İnternet** | Ziyaret sırasında ölçülen yaklaşık bağlantı hızı |
+| 🔊 **Gürültü** | `1/10` daha sakin, `10/10` daha gürültülü ortamı ifade eder |
+| 🕒 **Saatler** | Mekânın bilinen çalışma saatleri |
+| 📆 **Son teyit** | Bilginin en son yerinde veya doğrudan kontrol edildiği tarih |
+| `—` | Bilginin henüz eklenmediğini veya teyit edilmediğini gösterir |
 
-</details>
-
----
-
-<details>
-<summary>📍 <b>Urla</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Baristocrat** | ⚡ Çoğu masada mevcut | 🚀 15 Mbps | 🔉 9/10 | 10:00 - 22:00 | - | [@baristocrat3rd](https://instagram.com/baristocrat3rd) | Yazın içerisi sıcak ve sınırlı alan var ama kahveleri güzel. |
-
-</details>
+> [!IMPORTANT]
+> Gürültü ve çalışma konforu günün saatine, mevsime ve mekândaki yoğunluğa göre değişebilir. Puanlarla birlikte açıklama notlarını da dikkate al.
 
 ---
 
-<details>
-<summary>📍 <b>Seferihisar</b></summary>
+## 🤝 Katkı
 
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Tuck** | ⚡ Çoğu masada mevcut | 🚀 250 Mbps | 🔉 2/10 | 10:00 - 22:00 | - | [@tuckcoffee](https://instagram.com/tuckcoffee) | İzmir dışında olmasına rağmen en keyifli yerlerden biri. İnterneti hızlı, sessiz ve havadar. |
+Yeni bir mekân eklemek veya mevcut bilgileri güncellemek için pull request açabilirsin.
 
-</details>
+Katkı gönderirken mümkünse şu bilgileri ekle:
 
----
+- Mekân adı ve bölgesi
+- Priz durumu
+- Yaklaşık internet hızı
+- Gürültü puanı
+- Çalışma saatleri
+- Son teyit tarihi (`YYYY-MM` veya `YYYY-MM-DD`)
+- Resmî Instagram hesabı
+- Kısa ve tarafsız deneyim notu
 
-<details>
-<summary>📍 <b>Balçova</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **İstinyePark Teras** | ⚡ Çoğu masada mevcut | 🚀 15 Mbps | 🔉 8/10 | 10:00 - 01:00 | - | [@istinyeparkteras](https://instagram.com/istinyeparkteras) | Tekli masalar rahat, görüşme yapmak için uygun, hafif karanlık. |
-| **İstinyePark Penguen** | ❌ Yok | 🚀 65 Mbps | 🔉 3/10 | 10:00 - 22:00 | - | [@penguen.kitabevi](https://instagram.com/penguen.kitabevi) | Alt katta uygun değil, üst kattakiler kısa süreli çalışma için uygun. |
-| **İstinyePark Nero** | ⚡ Çoğu masada mevcut | 🚀 45 Mbps | 🔉 9/10 | 10:00 - 22:00 | -| [@caffenero](https://instagram.com/caffenero) | Karanlık ve gürültülü ortam. |
-| **İstinyePark Starbucks** | ⚡ Çoğu masada mevcut | 🚫 Belirtilmemiş | 🔉 9/10 | 10:00 - 22:00 | - | [@starbucks_tr](https://instagram.com/starbucks_tr) | 1 tane çalışma masası var ama genelde boş. |
-| **Agora Nero** | ⚡ Çalışma masalarında | 🚀 5 Mbps | 🔉 9/10 | 10:00 - 22:00 | 2025-12 | [@caffenero](https://instagram.com/caffenero) | - |
-| **Agora Gloria Jean's** | ⚡ Çalışma masalarında | 🚫 Çok yavaş | 🔉 9/10 | 10:00 - 22:00 | 2025-12 | [@gloriajeanscoffeetr](https://instagram.com/gloriajeanscoffeetr) | İnterneti zayıf. |
-| **Agora Kahve Dünyası** | ❌ Yok | 🚫 Çok zayıf | 🔉 9/10 | 10:00 - 22:00 | 2025-12 | - | İnternet yok ama oturma alanı güzel. |
-| **Robus Coffee** | ⚡ Az sayıda | 🚀 20 Mbps | 🔉 9/10 | 10:00 - 22:00 | - | [@robustcoffeeshop](https://instagram.com/robustcoffeeshop) | - |
-| **Tuck (Kipa Karşısı)** | ⚡ Az sayıda | 🚀 200 Mbps | 🔉 9/10 | - | - | [@tuckcoffee](https://instagram.com/tuckcoffee) | Kalabalık ama hızlı internet. |
-| **W.O.L Coffee Co. (Kipa Karşısı)** | ❌ Yok | 🚀 80 Mbps | 🔉 9/10 | - | 2025-10 | [@wolcoffeeco](https://instagram.com/wolcoffeeco) | Tekli masalar rahat. |
-
-</details>
-
----
-
-<details>
-<summary>📍 <b>Güzelbahçe</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Tuck (Delicious)** | ⚡ Az sayıda | 🚀 20 Mbps | 🔉 9/10 | - | 2024-08 | [@tuckcoffee](https://instagram.com/tuckcoffee) | - |
-| **1881 Cafe & Lounge** | ❌ Yok ya da çok az | 🚀 15 Mbps | 🔉 3/10 | - | - | [@1881cafelounge](https://instagram.com/1881cafelounge) | Öğlen saatlerinde sakin, ağaç altında huzurlu mekan. |
-
-</details>
-
----
-
-<details>
-<summary>📍 <b>Bornova</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Brew Mood Coffee & Tea** | ⚡ Çalışma masalarında | 🚀 10 Mbps | 🔉 10/10 | 10:00 - 22:00 | - | [@brewmoodturkiye](https://instagram.com/brewmoodturkiye) | - |
-| **Cope Of Coffee** | ⚡ Masaların altında | 🚀 177 Mbps | 🔉 5/10 | - | 2025-05 | [@copeof_coffee](https://www.instagram.com/copeof_coffee/) | - |
-
-</details>
-
----
-
-<details>
-<summary>📍 <b>Üçyol</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Brew Mood Coffee & Tea** | ⚡ Çalışma masalarında | 🚀 169 Mbps | 🔉 7/10 | 10:00 - 22:00 | - | [@brewmoodturkiye](https://instagram.com/brewmoodturkiye) | Arka kısım toplantı için uygun, sessiz ama biraz karanlık. |
-| **Ali Galip** | ⚡ Duvar dibindeki masalarda | 🚀 40 Mbps | 🔉 7/10 | 10:00 - 22:00 | 2025-10 | - | Üçyol metro çıkışında acil ihtiyaç halinde kısa süreli çalışmalar için ideal yer. |
-
-</details>
-
----
-
-<details>
-<summary>📍 <b>Buca</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Buckin** | ⚡ Çalışma masalarında mevcut | 🚀 40 Mbps | 🔉 8/10 | 10:00 - 22:00 | - | [@buckincoffee_tr](https://www.instagram.com/buckincoffee_tr/) | 3 katlı, yazın çok sıcak. Gürültülü ortam. |
-
-</details>
-
----
-
-<details>
-<summary>📍 <b>Göztepe</b></summary>
-
-| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
-|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
-| **Tuck** | ✅ Çalışma odası var | 🚀 25 Mbps | 🔉 10/10 | - | - | [@tuckcoffee](https://instagram.com/tuckcoffee) | Sessiz çalışma odası var. Öğrenciler genelde ders çalışıyor. |
-| **Casual** | ✅ Neredeyse tüm masalarda priz var | 🚀 80 Mbps | 🔉 10/10 | - | 29.10.2025 | [@casualcoffeebakery](https://instagram.com/casualcoffeebakery) | Sessiz çalışma odası var. Öğrenciler genelde ders çalışıyor. |
-</details>
+> [!TIP]
+> Ölçümlerin karşılaştırılabilir olması için internet testini mümkünse aynı cihazla ve yoğun olmayan bir saatte yap.
 
 ---
 
 ## ⚖️ Lisans
 
-Bu proje **Creative Commons BY-NC-ND 4.0 (Atıf-GayriTicari-Türetilemez)** lisansı ile korunmaktadır.  
-Yani içeriğin tamamı **izin alınmadan kopyalanamaz, değiştirilerek kullanılamaz ve ticari amaçla kullanılamaz.**
+Bu içerik **Creative Commons BY-NC-ND 4.0** lisansı ile yayımlanmaktadır.
 
-📄 Detaylı bilgi için: [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr)
+İçerik:
+
+- Uygun atıf verilerek paylaşılabilir.
+- Yalnızca ticari olmayan amaçlarla kullanılabilir.
+- Değiştirilmiş veya uyarlanmış biçimde dağıtılamaz.
+
+Ticari kullanım, veri setinin değiştirilerek yayımlanması veya başka bir projeye uyarlanması için ayrıca izin alınması gerekir.
+
+📄 [Lisans metnini görüntüle](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr)
+
+---
+
+<div align="center">
+
+<sub>☕ İzmir’de çalışacak iyi bir yer bulmak biraz daha kolay olsun diye hazırlanmıştır.</sub>
+
+</div>
