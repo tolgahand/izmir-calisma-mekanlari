@@ -22,7 +22,7 @@
 - [Güzelbahçe](#-güzelbahçe)
 - [Bornova](#-bornova)
 - [Üçyol](#-üçyol)
-- [Buca](#-buca)
+- [Buca](#buca)
 - [Göztepe](#-göztepe)
 
 ---
