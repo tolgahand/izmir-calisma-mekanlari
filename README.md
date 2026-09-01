@@ -6,7 +6,7 @@
 
 [![Son teyit](https://img.shields.io/badge/Son_teyit-Aralık_2025-0F766E?style=flat-square)](#-güncellik-ve-puanlama)
 [![Bölge](https://img.shields.io/badge/Bölge-10-1D4ED8?style=flat-square)](#-bölgeler)
-[![Mekân](https://img.shields.io/badge/Mekân-24-C2410C?style=flat-square)](#-bölgeler)
+[![Mekân](https://img.shields.io/badge/Mekân-26-C2410C?style=flat-square)](#-bölgeler)
 [![Lisans](https://img.shields.io/badge/Lisans-CC_BY--NC--ND_4.0-52525B?style=flat-square)](#-lisans)
 
 [Öne Çıkanlar](#-öne-çıkanlar) · [Bölgeler](#-bölgeler) · [Kriterler](#-güncellik-ve-puanlama) · [Katkı](#-katkı) · [Lisans](#-lisans)
@@ -49,12 +49,14 @@
 
 
 <a id="konak"></a>
-### 📍 Konak · 1 mekân
+### 📍 Konak · 3 mekân
 
 
 | Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
 |---|---|---:|:---:|:---:|:---:|---|
 | **Tukkan**<br>[Instagram ↗](https://instagram.com/tukkancoffee) | ⚡ Çoğu masada mevcut | **400+ Mbps** | 8/10 | 09.00–01.00 | — | Gündüz saatlerinde sakin, hafif müzikli ve temiz bir ortam. |
+| **coffeelab / Konak Pier**<br>[Instagram ↗](https://instagram.com/coffeelabtr) | ⚡ Duvar dibindeki masalarda mevcut | **25 Mbps** | 9/10 | 10.00–21.00 | — | Hem deniz kenarında masaları var hem de içeride. İçerisi çok geniş havadar bir mekan. |
+| **Starbucks / Konak Pier**<br>[Instagram ↗](https://instagram.com/starbucks_tr) | ⚡ Çalışma masalarında mevcut | **25 Mbps** | 9/10 | 10.00–21.00 | — | Hem deniz kenarında masaları var hem de içeride. İçerideki masa sayısı çok kısıtlı, genelde dışarısı tercih ediliyor. |
 
 
 <a id="urla"></a>
