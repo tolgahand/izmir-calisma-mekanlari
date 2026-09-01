@@ -54,9 +54,9 @@
 
 | Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
 |---|---|---:|:---:|:---:|:---:|---|
-| **Tukkan**<br>[Instagram ↗](https://instagram.com/tukkancoffee) | ⚡ Çoğu masada mevcut | **400+ Mbps** | 8/10 | 09.00–01.00 | — | Gündüz saatlerinde sakin, hafif müzikli ve temiz bir ortam. |
-| **coffeelab / Konak Pier**<br>[Instagram ↗](https://instagram.com/coffeelabtr) | ⚡ Duvar dibindeki masalarda mevcut | **25 Mbps** | 9/10 | 10.00–21.00 | — | Hem deniz kenarında masaları var hem de içeride. İçerisi çok geniş havadar bir mekan. |
-| **Starbucks / Konak Pier**<br>[Instagram ↗](https://instagram.com/starbucks_tr) | ⚡ Çalışma masalarında mevcut | **25 Mbps** | 9/10 | 10.00–21.00 | — | Hem deniz kenarında masaları var hem de içeride. İçerideki masa sayısı çok kısıtlı, genelde dışarısı tercih ediliyor. |
+| **Tukkan**<br>[Instagram ↗](https://instagram.com/tukkancoffee) | ⚡ Çoğu masada mevcut | **400+ Mbps** | 8/10 | 09.00–01.00 | 31.08.2026 | Gündüz saatlerinde sakin, hafif müzikli ve temiz bir ortam. |
+| **coffeelab / Konak Pier**<br>[Instagram ↗](https://instagram.com/coffeelabtr) | ⚡ Duvar dibindeki masalarda mevcut | **25 Mbps** | 9/10 | 10.00–21.00 | 01.09.2026 | Hem deniz kenarında masaları var hem de içeride. İçerisi çok geniş havadar bir mekan. |
+| **Starbucks / Konak Pier**<br>[Instagram ↗](https://instagram.com/starbucks_tr) | ⚡ Çalışma masalarında mevcut | **25 Mbps** | 9/10 | 10.00–21.00 | 01.09.2026 | Hem deniz kenarında masaları var hem de içeride. İçerideki masa sayısı çok kısıtlı, genelde dışarısı tercih ediliyor. |
 
 
 <a id="urla"></a>
