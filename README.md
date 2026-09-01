@@ -16,13 +16,14 @@
 
 ## 📍 Bölgeler
 - [Alsancak](#-alsancak)
+- [Konak](#-konak)
 - [Urla](#-urla)
 - [Seferihisar](#-seferihisar)
 - [Balçova](#-balçova)
 - [Güzelbahçe](#-güzelbahçe)
 - [Bornova](#-bornova)
 - [Üçyol](#-üçyol)
-- [Buca](#buca)
+- [Buca](#-buca)
 - [Göztepe](#-göztepe)
 
 ---
@@ -39,6 +40,17 @@ Ancak veriler izin alınmadan başka projelere **kopyalanamaz veya ticari olarak
 | ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
 |----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
 | **Kahve Dünyası (Kültür Sanat Fabrikası)** | ✅ Çalışma masalarında mevcut | ⚡ 20 Mbps | 🔉 7/10 | 10:00 - 22:00 | - | [@kahvedunyasi](https://www.instagram.com/kahvedunyasi/) | Üst katta odalar var, öğrenciler bazen 2-3 kişi geçip kapıyı kapatıyor. Girip kullanabilirsiniz, kişiye özel ayrılmış oda sistemi yok. Direkt çalışma odaları çok rahat, sakin. |
+
+</details>
+
+---
+
+<details>
+<summary>📍 <b>Konak</b></summary>
+
+| ☕ Mekan | 🔌 Priz | 🚀 İnternet | 🔊 Gürültü | 🕒 Saatler | 📆 Son Teyit | 📸 Instagram | 📝 Not |
+|----------|----------|-------------|-------------|-------------|----------------|---------------|--------|
+| **Tukkan** | ⚡ Çoğu masada mevcut | 🚀 400+ Mbps | 🔉 8/10 | 09:00 - 01:00 | - | [@tukkancoffee](https://instagram.com/tukkancoffee) | Gündüz vakitlerinde içerisi sakin, hafif müzik var. Tertemiz ortam, çok güzel bir yer. |
 
 </details>
 
