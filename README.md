@@ -6,7 +6,7 @@
 
 [![Son teyit](https://img.shields.io/badge/Son_teyit-Eylül_2026-0F766E?style=flat-square)](#-güncellik-ve-puanlama)
 [![Bölge](https://img.shields.io/badge/Bölge-10-1D4ED8?style=flat-square)](#-bölgeler)
-[![Mekân](https://img.shields.io/badge/Mekân-26-C2410C?style=flat-square)](#-bölgeler)
+[![Mekân](https://img.shields.io/badge/Mekân-27-C2410C?style=flat-square)](#-bölgeler)
 [![Lisans](https://img.shields.io/badge/Lisans-CC_BY--NC--ND_4.0-52525B?style=flat-square)](#-lisans)
 
 [Öne Çıkanlar](#-öne-çıkanlar) · [Bölgeler](#-bölgeler) · [Kriterler](#-güncellik-ve-puanlama) · [Katkı](#-katkı) · [Lisans](#-lisans)
@@ -40,13 +40,13 @@
 </div>
 
 <a id="alsancak"></a>
-### 📍 Alsancak · 1 mekân
+### 📍 Alsancak · 2 mekân
 
 
 | Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
 |---|---|---:|:---:|:---:|:---:|---|
 | **Kahve Dünyası — Kültür Sanat Fabrikası**<br>[Instagram ↗](https://www.instagram.com/kahvedunyasi/) | ✅ Çalışma masalarında mevcut | 20 Mbps | 7/10 | 10.00–22.00 | — | Üst katta rahat çalışma odaları var. Odalar kişiye özel değil; müsait olduğunda kullanılabiliyor. |
-
+| **Ricos Coffee**<br>[Instagram ↗](https://www.instagram.com/ricoscoffeetr/) | ✅ Dışarıdaki duvar dibindekilerde mevcut | 35 Mbps | 7/10 | 09.00–24.00 | 02.09.2026 | İçerisi çok serin güzel ve temiz fakat çalışma için uygun değil. Dışarıdaki küçük bir alanda prizler var fakat o masalar da çalışmak için uygun değil. Burası çalışmadan ziyade kısa süreli işler ve sohbet için tercih edilebilir. Mekan genel olarak temiz ve ferah. |
 
 <a id="konak"></a>
 ### 📍 Konak · 3 mekân
