@@ -45,7 +45,7 @@
 
 | Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
 |---|---|---:|:---:|:---:|:---:|---|
-| **Kahve Dünyası — Kültür Sanat Fabrikası**<br>[Instagram ↗](https://www.instagram.com/kahvedunyasi/) | ✅ Çalışma masalarında mevcut | 20 Mbps | 7/10 | 10.00–22.00 | — | Üst katta rahat çalışma odaları var. Odalar kişiye özel değil; müsait olduğunda kullanılabiliyor. |
+| **Kahve Dünyası — Kültür Sanat Fabrikası**<br>[Instagram ↗](https://www.instagram.com/kahvedunyasi/) | ✅ Çalışma masalarında mevcut | 20 Mbps | 7/10 | 10.00–22.00 | 02.09.2026 | Üst katta rahat çalışma odaları var. Odalar kişiye özel değil; müsait olduğunda kullanılabiliyor. Burası çalışmak için çok güzel olsa da çok büyük bir sıkıntısı var. Neredeyse her geldiğimde tüm masaların üzerinde defter kitap görüyorum. Öğrenciler eşyalarını bırakıp alsancağa gidiyorlar gezmeye. Dışarıda hiç insan olmasa bile genelde masalar dolu. Bu öyle yemek için ayrılmışlar gibi bir durum da değil. Direkt alışkanlık edinmişler. |
 | **Ricos Coffee**<br>[Instagram ↗](https://www.instagram.com/ricoscoffeetr/) | ✅ Dışarıdaki duvar dibindekilerde mevcut | 35 Mbps | 7/10 | 09.00–24.00 | 02.09.2026 | İçerisi çok serin güzel ve temiz fakat çalışma için uygun değil. Dışarıdaki küçük bir alanda prizler var fakat o masalar da çalışmak için uygun değil. Burası çalışmadan ziyade kısa süreli işler ve sohbet için tercih edilebilir. Mekan genel olarak temiz ve ferah. |
 
 <a id="konak"></a>
