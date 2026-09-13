@@ -124,7 +124,7 @@
 | **Brew Mood Coffee & Tea**<br>[Instagram ↗](https://instagram.com/brewmoodturkiye) | ⚡ Çalışma masalarında | **169 Mbps** | 7/10 | 10.00–22.00 | — | Arka bölüm toplantı için uygun ve sakin; ortam biraz karanlık. |
 | **Ali Galip** | ⚡ Duvar dibindeki masalarda | 40 Mbps | 7/10 | 10.00–22.00 | **2025-10** | Üçyol Metro çıkışında, kısa süreli ve acil çalışmalar için uygun. |
 | **Casual**<br>[Instagram ↗](https://instagram.com/casualcoffeebakery) | ⚡ Çalışma masalarında | **400 Mbps** | 7/10 | 10.00–22.00 | — | Alt katında çalışma masaları ve sessiz çalışma odası mevcut. |
-| **Panama Coffee**<br>[Instagram ↗](https://instagram.com/panamacoffeetr) | ⚡ Duvar dibindeki masalarda var | **75 Mbps** | 5/10 | 08.00–23.59 | 2026-09 | Dışarısı gün içerisinde sessiz sakinç Kafe de boşsa güzel vakit geçirilebilir. |
+| **Panama Coffee**<br>[Instagram ↗](https://instagram.com/panamacoffeetr) | ⚡ Duvar dibindeki masalarda var | **10 - 75 Mbps** | 5/10 | 08.00–23.59 | 2026-09 | Dışarısı gün içerisinde sessiz sakinç Kafe de boşsa güzel vakit geçirilebilir. İnterneti stabil değil, belki geçici sorundur ama düzgün kullanamadım. |
 
 
 <a id="buca"></a>
