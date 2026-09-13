@@ -6,7 +6,7 @@
 
 [![Son teyit](https://img.shields.io/badge/Son_teyit-Eylül_2026-0F766E?style=flat-square)](#-güncellik-ve-puanlama)
 [![Bölge](https://img.shields.io/badge/Bölge-10-1D4ED8?style=flat-square)](#-bölgeler)
-[![Mekân](https://img.shields.io/badge/Mekân-27-C2410C?style=flat-square)](#-bölgeler)
+[![Mekân](https://img.shields.io/badge/Mekân-28-C2410C?style=flat-square)](#-bölgeler)
 [![Lisans](https://img.shields.io/badge/Lisans-CC_BY--NC--ND_4.0-52525B?style=flat-square)](#-lisans)
 
 [Öne Çıkanlar](#-öne-çıkanlar) · [Bölgeler](#-bölgeler) · [Kriterler](#-güncellik-ve-puanlama) · [Katkı](#-katkı) · [Lisans](#-lisans)
@@ -116,7 +116,7 @@
 
 
 <a id="ucyol"></a>
-### 📍 Üçyol · 3 mekân
+### 📍 Üçyol · 4 mekân
 
 
 | Mekân | Priz | İnternet | Gürültü | Saatler | Son teyit | Not |
@@ -124,6 +124,7 @@
 | **Brew Mood Coffee & Tea**<br>[Instagram ↗](https://instagram.com/brewmoodturkiye) | ⚡ Çalışma masalarında | **169 Mbps** | 7/10 | 10.00–22.00 | — | Arka bölüm toplantı için uygun ve sakin; ortam biraz karanlık. |
 | **Ali Galip** | ⚡ Duvar dibindeki masalarda | 40 Mbps | 7/10 | 10.00–22.00 | **2025-10** | Üçyol Metro çıkışında, kısa süreli ve acil çalışmalar için uygun. |
 | **Casual**<br>[Instagram ↗](https://instagram.com/casualcoffeebakery) | ⚡ Çalışma masalarında | **400 Mbps** | 7/10 | 10.00–22.00 | — | Alt katında çalışma masaları ve sessiz çalışma odası mevcut. |
+| **Panama Coffee**<br>[Instagram ↗](https://instagram.com/panamacoffeetr) | ⚡ Duvar dibindeki masalarda var | **75 Mbps** | 5/10 | 08.00–23.59 | 2026-09 | Dışarısı gün içerisinde sessiz sakinç Kafe de boşsa güzel vakit geçirilebilir. |
 
 
 <a id="buca"></a>
